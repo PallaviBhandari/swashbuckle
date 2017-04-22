@@ -29,7 +29,7 @@ Search **Swashbuckle** in the search box and select the package and install it.
 
 The following dependencies will be installed for package **Swashbuckle 5.5.3**
 
-![alt text](/images/packages.png "Dependencies")
+![alt text](/images/Packages.png "Dependencies")
 
 #####Swagger Config#####
 
